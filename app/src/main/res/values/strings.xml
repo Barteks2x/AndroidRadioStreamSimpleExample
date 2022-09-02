@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioZET</string>
+    <string name="playButton">Play</string>
+    <string name="stopButton">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="notification_channel_name">RadioZET Player</string>
+</resources>
